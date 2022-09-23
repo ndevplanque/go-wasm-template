@@ -2,7 +2,7 @@
 
 This template lets you start building your Go+WASM app from a sample that works.
 
-It features julienschmidt/httprouter and html/templates. 
+It features julienschmidt/httprouter and go/html/templates. 
 
 I wrote run-scripts because a few commands need to be runned before actually running the main.go file.
 
