@@ -20,4 +20,4 @@ Credits :
 
 - Myself for run-scripts and making all these parts work together
 
-- Golang for the golang part
+- Golang for the golang part ♥
