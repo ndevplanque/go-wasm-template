@@ -18,6 +18,6 @@ Credits :
 
 - Trevor Sawler @ Udemy for the app part and teaching me Golang
 
-- Myself for run-scripts and mashing-up all these parts
+- Myself for run-scripts and making all these parts work together
 
 - Golang for the golang part
