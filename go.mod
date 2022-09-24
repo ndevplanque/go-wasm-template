@@ -1,4 +1,4 @@
-module webapp
+module go-wasm-template
 
 go 1.19
 
