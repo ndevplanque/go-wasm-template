@@ -8,7 +8,7 @@ import (
 	"net/http"
 	"os"
 	"time"
-	"webapp/app"
+	"go-wasm-template/app"
 )
 
 func main() {
